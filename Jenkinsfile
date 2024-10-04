@@ -8,7 +8,7 @@ pipeline {
       }
     }
 
-    stage('') {
+    stage('Log') {
       steps {
         sh 'dir'
       }
